@@ -1,2 +1,2 @@
-# Auwals-Portfolio
+# Auwal Alhassan Musa
 My personal portfolio website
